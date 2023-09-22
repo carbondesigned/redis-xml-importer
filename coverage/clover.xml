@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1695412281961" clover="3.2.0">
+  <project timestamp="1695412281961" name="All files">
+    <metrics statements="29" coveredstatements="13" conditionals="1" coveredconditionals="0" methods="10" coveredmethods="3" elements="40" coveredelements="16" complexity="0" loc="29" ncloc="29" packages="1" files="2" classes="2"/>
+    <file name="parser.ts" path="/Users/dylan/Documents/docs/personal/projects/redis-xml-importer/src/parser.ts">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="3" count="2" type="stmt"/>
+      <line num="5" count="2" type="stmt"/>
+      <line num="6" count="2" type="stmt"/>
+    </file>
+    <file name="redisOps.ts" path="/Users/dylan/Documents/docs/personal/projects/redis-xml-importer/src/redisOps.ts">
+      <metrics statements="26" coveredstatements="10" conditionals="1" coveredconditionals="0" methods="8" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+      <line num="10" count="1" type="stmt"/>
+      <line num="13" count="1" type="stmt"/>
+      <line num="16" count="1" type="stmt"/>
+      <line num="17" count="0" type="stmt"/>
+      <line num="18" count="0" type="stmt"/>
+      <line num="21" count="1" type="stmt"/>
+      <line num="22" count="0" type="stmt"/>
+      <line num="23" count="0" type="stmt"/>
+      <line num="26" count="1" type="stmt"/>
+      <line num="27" count="1" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+      <line num="32" count="0" type="cond" truecount="0" falsecount="1"/>
+      <line num="33" count="0" type="stmt"/>
+      <line num="38" count="0" type="stmt"/>
+      <line num="39" count="0" type="stmt"/>
+      <line num="40" count="0" type="stmt"/>
+      <line num="44" count="0" type="stmt"/>
+      <line num="45" count="0" type="stmt"/>
+      <line num="46" count="0" type="stmt"/>
+      <line num="50" count="0" type="stmt"/>
+      <line num="51" count="0" type="stmt"/>
+      <line num="55" count="0" type="stmt"/>
+      <line num="56" count="0" type="stmt"/>
+    </file>
+  </project>
+</coverage>
